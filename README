@@ -1,0 +1,13 @@
+--------------------------------------------------
+-- Google Docs Integration -- Proof of concept  --
+--------------------------------------------------
+
+A proof of concept to integrate Google Docs services within Open Wonderland
+
+HOW TO use the module:
+
+- Follow normal deployment instructions for Open Wonderland but before that
+make sure that you modify the file: GoogleDocsActions.java
+On line 30 you will need to use your Google Docs username and password.
+
+Jos (November 2011)
